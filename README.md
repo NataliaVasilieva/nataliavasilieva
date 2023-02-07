@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">an aspiring Frontend Developer</h3>
+ 
+-------------------------------
 
-- 🌱 I’m currently learning **Git, React,TypeScript**
+Described by colleagues and upper management as a real #gogetter. Flexible enough to handle multiple tasks and projects simultaneously. An inquisitive personality with a knack for building creative websites with responsive & adaptive designs that sell, inform, or bring tangible value to customers.
 
+- 🌍  Based in Chisinau
+- 🧠  Learning web development
+- 🤝  Open to collaborating on exciting projects
+- 🌱  Currently learning **Git, React,TypeScript**
 - 📫 How to reach me **vasilievan344@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
